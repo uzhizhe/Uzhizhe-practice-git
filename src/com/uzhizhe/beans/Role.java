@@ -1,10 +1,10 @@
 package com.uzhizhe.beans;
 
 /**
- * @Desc User
+ * @Desc Role
  * @Author qingjiang.li
  * @Date 2020/6/29
  */
-public class User {
+public class Role {
     private Integer id;
 }
