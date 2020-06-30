@@ -7,4 +7,5 @@ package com.uzhizhe.beans;
  */
 public class Teacher {
     private Integer id = 7;
+    private String name = "DD";
 }
