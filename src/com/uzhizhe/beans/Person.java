@@ -6,4 +6,5 @@ package com.uzhizhe.beans;
  * @Date 2020/6/29
  */
 public class Person {
+    private Integer id = 5;
 }
