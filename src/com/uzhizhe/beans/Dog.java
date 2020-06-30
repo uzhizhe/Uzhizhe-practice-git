@@ -6,5 +6,5 @@ package com.uzhizhe.beans;
  * @Date 2020/6/30
  */
 public class Dog {
-    private Integer id;
+    private Integer id = 4;
 }
