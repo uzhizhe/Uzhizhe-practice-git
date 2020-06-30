@@ -7,5 +7,5 @@ package com.uzhizhe.beans;
  */
 public class Dog {
     private Integer id = 4;
-    private String name = "A";
+    private String name = "AA";
 }
