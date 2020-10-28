@@ -7,5 +7,5 @@ package com.uzhizhe.beans;
  */
 public class Person {
     private Integer id = 5;
-    private String name = "BB";
+    private String name = "BBB";
 }
